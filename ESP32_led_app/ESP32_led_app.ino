@@ -5,8 +5,8 @@
 
 BH1750 lightMeter;
 // ===================== WIFI =====================
-const char* ssid = "Freebox-1D4F4D";
-const char* password = "mhx7dqz67nqh6vv6qt43ks";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 WebServer server(80);
 
