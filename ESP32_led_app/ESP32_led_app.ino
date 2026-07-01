@@ -11,12 +11,12 @@ const char* password = "PASSWORD";
 WebServer server(80);
 
 // ===================== LED =====================
-#define LED_PIN 18
-#define NUM_LEDS 144
+#define LED_PIN 27
+27#define NUM_LEDS 144
 CRGB leds[NUM_LEDS];
 
 // ===================== SENSORS =====================
-#define PIR_PIN 32
+#define PIR_PIN 18
 
 const int lightThreshold = 2.5;
 
