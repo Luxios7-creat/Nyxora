@@ -12,7 +12,7 @@ WebServer server(80);
 
 // ===================== LED =====================
 #define LED_PIN 27
-27#define NUM_LEDS 144
+#define NUM_LEDS 144
 CRGB leds[NUM_LEDS];
 
 // ===================== SENSORS =====================
